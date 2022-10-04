@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning computer science with focus on Machine Learning
 - 🌱 I’m currently learning a bunch of different languages like C/C++, Python, Arrays, Algorithms, and so much more
 - 💞️ I’m looking to collaborate on any project within the space of Machine Learning
-- 📫 How to reach me: alexander@gorgin.dk
+- 📫 How to reach me: gorginalexander@gmail.com
 
 <!---
 Agorgin/Agorgin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
